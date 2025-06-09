@@ -1,2 +1,2 @@
 # piyushku
-Author -- piyush kumar
+ This is my first Git Repository. Author -- piyush kumar
